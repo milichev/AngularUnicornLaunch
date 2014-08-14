@@ -1,6 +1,8 @@
 node_modules/
 bower_components/
-*.log
-
 build/
 dist/
+dist
+.tmp
+.sass-cache
+bower_components
